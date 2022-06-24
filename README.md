@@ -1,5 +1,4 @@
 ## Olá, me chamo Gabriel Lencina e seja bem vindo ao meu perfil!
-
 <div align="center">
   <a href="https://github.com/gabriellencina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellencina&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
