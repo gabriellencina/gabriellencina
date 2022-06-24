@@ -1,7 +1,7 @@
 ## Olá, me chamo Gabriel Lencina e seja bem vindo ao meu perfil!
 <div align="center">
   <a href="https://github.com/gabriellencina">
-  <img height="177.8em" src="https://github-readme-stats.vercel.app/api?username=gabriellencina&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="177.5em" src="https://github-readme-stats.vercel.app/api?username=gabriellencina&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellencina&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
