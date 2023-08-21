@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel Lencina e seja bem vindo ao meu perfil!
+## Hello, my name is Gabriel Lencina and welcome to my profile!
 <div align="left">
   <a href="https://github.com/gabriellencina">
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellencina&layout=compact&langs_count=7&theme=chartreuse-dark"/>
